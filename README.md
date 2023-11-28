@@ -1,19 +1,21 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# MW
+ 
+ 
+ ![Screenshot 2023-11-28 234304](https://github.com/christoph3r3w/look-and-feel-corporate-identity/assets/144007933/e5d94638-8cf7-4aa0-a01b-ea5c8dbcc320)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+ 
+ 
+ > [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+
+
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+The event button was styled based the [style guide](https://christoph3r3w.github.io/look-and-feel-living-styleguide/) for De hallen's website
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+* HTML
+* CSS  - [Custom properties](https://github.com/christoph3r3w/look-and-feel-custom-properties/wiki)
 
-## Bronnen
 
 ## Licentie
 
