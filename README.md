@@ -16,6 +16,9 @@ The event button was styled based the [style guide](https://christoph3r3w.github
 * HTML
 * CSS  - [Custom properties](https://github.com/christoph3r3w/look-and-feel-custom-properties/wiki)
 
+## Wiki 
+https://github.com/christoph3r3w/look-and-feel-corporate-identity/wiki/2.Ontwerp-en-Bouwen
+
 
 ## Licentie
 
