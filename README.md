@@ -10,7 +10,8 @@
 
 
 ## Beschrijving
-The event button was styled based the [style guide](https://christoph3r3w.github.io/look-and-feel-living-styleguide/) for De hallen's website
+I continued working on the website for the client from this repository [ Client website](https://github.com/christoph3r3w/MiddenWest-client-website).
+with a new user story and some changes to some components based on the [Living style guide](https://christoph3r3w.github.io/look-and-feel-living-styleguide/) 
 
 ## Kenmerken
 * HTML
